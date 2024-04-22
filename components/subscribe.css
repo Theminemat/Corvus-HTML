@@ -1,0 +1,24 @@
+.subscribe-subscribe {
+  cursor: pointer;
+  display: flex;
+  position: relative;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: 16px;
+  padding-left: 32px;
+  border-radius: 56px;
+  padding-right: 32px;
+  flex-direction: row;
+  padding-bottom: 16px;
+  justify-content: flex-start;
+  background-color: #5228F5;
+}
+.subscribe-subscribe:hover {
+  background-color: #000;
+}
+.subscribe-text {
+  color: #ffffff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+}
