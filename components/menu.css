@@ -73,12 +73,12 @@
   height: 100%;
   display: flex;
   align-items: center;
-  padding-top: 38px;
+  padding-top: 20px;
   flex-direction: row;
-  padding-bottom: 38px;
+  padding-bottom: 20px;
 }
 .menu-logo1 {
-  width: 179px;
+  width: 120px;
   margin-left: var(--dl-space-space-halfunit);
 }
 .menu-links1 {
@@ -118,7 +118,21 @@
 .menu-container1 {
   display: contents;
 }
-
+.menu-root-class-name {
+  display: none;
+}
+.menu-root-class-name1 {
+  display: none;
+}
+.menu-root-class-name2 {
+  display: none;
+}
+.menu-root-class-name3 {
+  display: none;
+}
+.menu-root-class-name4 {
+  display: none;
+}
 @media(max-width: 991px) {
   .menu-close-mobile-menu {
     align-items: center;
