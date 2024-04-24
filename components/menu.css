@@ -133,6 +133,15 @@
 .menu-root-class-name4 {
   display: none;
 }
+.menu-root-class-name5 {
+  display: none;
+}
+.menu-root-class-name6 {
+  display: none;
+}
+.menu-root-class-name7 {
+  display: none;
+}
 @media(max-width: 991px) {
   .menu-close-mobile-menu {
     align-items: center;
